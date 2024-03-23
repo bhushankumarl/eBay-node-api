@@ -7,6 +7,10 @@ The intent is to simplify the request process by handling the tedious logic. It'
 [![npm version](https://badge.fury.io/js/ebay-node-api.svg)](https://badge.fury.io/js/ebay-node-api)
 [![Build Status](https://travis-ci.org/ajay2507/ebay-node-api.svg?branch=master)](https://travis-ci.org/ajay2507/ebay-node-api) 
 
+## Do you need an expert?
+
+Are you in need of a developer? If so, please reach out here. [Submit your project request here.](https://goo.gl/forms/UofdG5GY5iHMoUWg2)
+Originally by [Bhushankummar - bhushan.lilapra@gmail.com](mailto:bhushan.lilapra@gmail.com).
 
 ## Table of Contents
 
